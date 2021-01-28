@@ -1,4 +1,6 @@
-# Google Calendar for Chrome
+# Google Calendar for Chrome, Rabbithawk Edition
+
+This is an attempt to revive an extension that's getting unlisted soon.
 
 ## Soon To Be Unpublished
 
